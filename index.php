@@ -84,7 +84,7 @@ switch (ENVIRONMENT) {
 		echo 'The application environment is not set correctly.';
 		exit ( 1 ); // EXIT_ERROR
 }
-
+//ovde napravi ja funkcijata za listanje
 /*
  * ---------------------------------------------------------------
  * SYSTEM FOLDER NAME

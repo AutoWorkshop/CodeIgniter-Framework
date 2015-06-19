@@ -95,7 +95,7 @@ switch (ENVIRONMENT) {
  * as this file.
  */
 $system_path = 'system';
-
+//sbal bla
 /*
  * ---------------------------------------------------------------
  * APPLICATION FOLDER NAME
